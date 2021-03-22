@@ -10,5 +10,5 @@ describe('get name function', () => {
         }
         const result = getName(spot);
         expect(result).toEqual('spot')
-    } )
+    })
 });
